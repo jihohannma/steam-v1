@@ -36,11 +36,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /* BASE TEXT FONTS */
 body {
-  font-family: "acumin pro", Helvetica, Arial, Helvetica, sans-serif;
+  font-family: "Proxima Nova", Helvetica, Arial, Helvetica, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "kepler-std-display", Georgia, "Times New Roman", Times, serif;
+  font-family: "Condor", Georgia, "Times New Roman", Times, serif;
   font-weight: 700;
   font-style: none;
 }
@@ -69,6 +69,11 @@ h2 {
 h3 {
   font-size: 1.5em;
   line-height: 1.2;
+}
+
+/* LOGO FONT */
+.site-header h1 {
+  font-family: "Proxima Nova", Helvetica, Arial, Helvetica, sans-serif;
 }
 
 /* LIMIT NUMBER OF CHARACTERS PER LINE */
@@ -112,7 +117,7 @@ hr {
 /* SECTION HEADING */
 .section-heading {
   font-size: 1em;
-  font-family: "acumin pro", Helvetica, Arial, Helvetica, sans-serif;
+  font-family: "Proxima Nova", Helvetica, Arial, Helvetica, sans-serif;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -286,7 +291,7 @@ body {
   text-decoration: none;
 }
 .site-header h1 {
-  font-size: 1.5em;
+  font-size: 2em;
   margin: 0;
 }
 .site-header .site-id {

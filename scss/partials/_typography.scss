@@ -31,6 +31,11 @@ h3 {
     line-height: 1.2;
 }
 
+/* LOGO FONT */
+.site-header h1 {
+    font-family: $font-family-sans;
+}
+
 /* LIMIT NUMBER OF CHARACTERS PER LINE */
 p { max-width: 40em; }
 
